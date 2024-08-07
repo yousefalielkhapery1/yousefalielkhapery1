@@ -1,8 +1,12 @@
 ## Hi there 👋
+
+My Name is yousef, and I am a fresh graduate in major Accounting and finance interseted in Data Analysis, and Business 
 - 🔭 I’m currently looking for Data Analyst role as an intern
 - 🌱 I’m currently learning Data Analysis & Finance
 - 💬 Ask me about Data Analysis, Accounting and Business in general 
-- 📫 How to reach me: [E-MAIL: yousefelkhapery@gmail.com] [Phone: (+20)114-478-7182]
+- 📫 Send me:
+  - E-mail: yousefelkhapery@gmail.com
+  - Phone: (+20)114-478-7182
 - ⚡ Fun fact: I love eating MANGO
 <!--
 **yousefalielkhapery1/yousefalielkhapery1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
